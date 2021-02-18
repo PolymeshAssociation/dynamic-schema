@@ -6,8 +6,8 @@ By default, `/${target}/` will redirect to `https://raw.githubusercontent.com/Po
 
 Here are some sample URLs
 
-- <http://schema.polymesh.live/alcyone>
-- <http://schema.polymesh.live/staging/>
-- <http://schema.polymesh.live/tooling/any_gibberish_here_doesn/t_matter?gibberish=true>
-- <http://schema.polymesh.live/v2.4.0>
+- <https://schema.polymesh.live/alcyone>
+- <https://schema.polymesh.live/staging/>
+- <https://schema.polymesh.live/tooling/any_gibberish_here_doesn/t_matter?gibberish=true>
+- <https://schema.polymesh.live/v2.4.0>
 - <http://schema.polymesh.live/af9b89c1243a9ac089a50fb05e6a718649a957d7>
