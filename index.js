@@ -17,7 +17,7 @@ addEventListener('fetch', event => {
 async function handleRequest(request) {
     const url = new URL(request.url);
     const requestedTarget = url.pathname.split('/')[1];
-    const target = config[url.pathname.split('/')[1]] || requestedTarget || "alcyone";
+    const target = config[requestedTarget] || requestedTarget || "alcyone";
     const destinationURL = baseURL + target + schemaPath;
 
     return Response.redirect(destinationURL, statusCode);
