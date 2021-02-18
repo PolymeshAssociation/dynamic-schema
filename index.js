@@ -1,7 +1,9 @@
 const config = {
     "alcyone": "af9b89c1243a9ac089a50fb05e6a718649a957d7",
+
     "pme": "tooling",
-    "pmf": "staging"
+    "pmf": "staging",
+    "dev": "develop"
 }
 
 const baseURL = 'https://raw.githubusercontent.com/PolymathNetwork/Polymesh/';
