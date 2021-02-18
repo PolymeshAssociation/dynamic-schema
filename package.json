@@ -1,0 +1,8 @@
+{
+    "name": "polymesh-dynamic-schema",
+    "version": "1.0.0",
+    "description": "Router for redirecting schema requests",
+    "main": "index.js",
+    "author": "Mudit Gupta <hi@mudit.blog>",
+    "license": "MIT"
+}

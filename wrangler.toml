@@ -1,0 +1,5 @@
+name = "dynamic-schema"
+type = "javascript"
+workers_dev = true
+route = ""
+zone_id = ""
