@@ -1,5 +1,5 @@
 const config = {
-    "alcyone": "af9b89c1243a9ac089a50fb05e6a718649a957d7",
+    "alcyone": "v2.5.0",
 
     "pme": "tooling",
     "pmf": "staging",
