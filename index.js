@@ -1,6 +1,6 @@
 const config = {
     "alcyone": "v3.1.0",
-    "itn": "v3.0.4",
+    "itn": "v3.1.0",
 
     "pme": "tooling",
     "pmf": "staging",
