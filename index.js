@@ -2,7 +2,7 @@ const config = {
     "alcyone": "v3.2.0",
     "itn": "v3.1.1",
 
-    "pme": "tooling",
+    "pme": "tooling_3.3",
     "pmf": "staging",
     "dev": "develop"
 }
