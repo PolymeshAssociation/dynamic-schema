@@ -1,6 +1,8 @@
 const config = {
     "alcyone": "v3.3.0",
     "itn": "v3.3.0",
+    "testnet": "v4.0.0",
+    "mainnet": "v4.0.0",
 
     "pme": "develop",
     "pmf": "v3.3.0",
