@@ -1,5 +1,5 @@
 const config = {
-    "staging": "staging",
+    "staging": "v4.1.0-rc",
     "testnet": "v4.0.0",
     "mainnet": "v4.0.0",
     "dev": "develop"
