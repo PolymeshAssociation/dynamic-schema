@@ -1,11 +1,7 @@
 const config = {
-    "alcyone": "v3.3.0",
-    "itn": "v3.3.0",
+    "staging": "staging",
     "testnet": "v4.0.0",
     "mainnet": "v4.0.0",
-
-    "pme": "develop",
-    "pmf": "v3.3.0",
     "dev": "develop"
 }
 
@@ -20,7 +16,7 @@ addEventListener('fetch', event => {
 async function handleRequest(request) {
     const url = new URL(request.url);
     const requestedTarget = url.pathname.split('/')[1];
-    const target = config[requestedTarget] || requestedTarget || "alcyone";
+    const target = config[requestedTarget] || requestedTarget || "mainnet";
     const destinationURL = baseURL + target + schemaPath;
 
     return Response.redirect(destinationURL, statusCode);
