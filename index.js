@@ -1,7 +1,7 @@
 const config = {
-    "staging": "v4.1.0-rc",
-    "testnet": "v4.1.0",
-    "mainnet": "v4.0.0",
+    "staging": "v4.1.1",
+    "testnet": "v4.1.1",
+    "mainnet": "v4.1.1",
     "dev": "develop"
 }
 
