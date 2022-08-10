@@ -1,11 +1,11 @@
 const config = {
     "staging": "staging",
-    "testnet": "v4.1.2",
+    "testnet": "5.0.2",
     "mainnet": "v4.1.2",
     "dev": "develop"
 }
 
-const baseURL = 'https://raw.githubusercontent.com/PolymathNetwork/Polymesh/';
+const baseURL = 'https://raw.githubusercontent.com/PolymeshAssociation/Polymesh/';
 const schemaPath = '/polymesh_schema.json';
 const statusCode = 302;
 
