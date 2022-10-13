@@ -1,6 +1,6 @@
 const config = {
-    "staging": "5.0.3",
-    "testnet": "5.0.3",
+    "staging": "v5.1.0",
+    "testnet": "5.0.4",
     "mainnet": "5.0.3",
     "dev": "develop"
 }
